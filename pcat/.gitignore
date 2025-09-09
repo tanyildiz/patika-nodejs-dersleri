@@ -1,0 +1,16 @@
+node_modules/
+vendor/
+
+./odev-3/
+./odev-4/
+./odev-5/
+./odev-6/
+
+.env
+.env.local
+.env.test
+.DS_Store
+
+temp/
+temp/
+build/
